@@ -14,7 +14,7 @@ function Hero() {
                                         <div className="desc">
                                             <h1>Hi! <br />I'm Tony</h1>
                                             <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank" rel="noopener noreferrer">colorlib.com</a></h2>
-                                            <p><a className="btn btn-primary btn-learn">Download CV <i className="icon-download4" /></a></p>
+                                            <p><a href="https://drive.google.com/file/d/1EAwU7rzAbMwB7vvEw9iga-FeW3rzX_-7/view?usp=sharing" className="btn btn-primary btn-learn">Download CV <i className="icon-download4" /></a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -30,7 +30,7 @@ function Hero() {
                                         <div className="desc">
                                             <h1>I am <br />a Data Scientist</h1>
                                             <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank" rel="noopener noreferrer">colorlib.com</a></h2>
-                                            <p><a className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3" /></a></p>
+                                            <p><a href="https://drive.google.com/file/d/1EAwU7rzAbMwB7vvEw9iga-FeW3rzX_-7/view?usp=sharing" className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3" /></a></p>
                                         </div>
                                     </div>
                                 </div>
