@@ -4,10 +4,10 @@ import Hero from './components/hero';
 import About from './components/about';
 import Service from './components/services';
 import Counter from './components/counter';
-import Skills from './components/skills';
+// import Skills from './components/skills';
 import Education from './components/education';
 import Experience from './components/experience';
-import Work from './components/work';
+// import Work from './components/work';
 import Blog from './components/blog';
 import Contact from './components/contact';
 import './App.css';
@@ -22,10 +22,10 @@ function App() {
           <About></About>
           <Service></Service>
           <Counter></Counter>
-          <Skills></Skills>
+          {/*<Skills></Skills>*/}
           <Education></Education>
           <Experience></Experience>
-          <Work></Work>
+          {/*<Work></Work>*/}
           <Blog></Blog>
           <Contact></Contact>
         </div>

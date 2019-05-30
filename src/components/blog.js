@@ -48,9 +48,8 @@ function Blog() {
                             <div className="desc">
                                 <span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i
                                     className="icon-bubble3"></i> 4</small></span>
-                                <h3><a href="blog.html">Make website from scratch</a></h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large
-                                    language ocean.</p>
+                                <h3><a href="blog.html">Guid to install Odoo 10 step-by-step</a></h3>
+                                <p>I found out that Odoo is one of the most terrible framework in installing. </p>
                             </div>
                         </div>
                     </div>
