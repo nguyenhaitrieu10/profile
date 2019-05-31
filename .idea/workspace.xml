@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="300c14b3-bbe0-40c0-a050-ae7af6561159" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/education.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            <state relative-caret-position="482">
+              <caret line="63" column="167" selection-start-line="63" selection-start-column="167" selection-end-line="63" selection-end-column="167" />
             </state>
           </provider>
         </entry>
@@ -74,28 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/about.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/education.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="49" column="83" selection-start-line="49" selection-start-column="83" selection-end-line="49" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/experience.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -129,6 +105,7 @@
       <find>Cups of</find>
       <find>high sc</find>
       <find>WORDPRESS</find>
+      <find>develope</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,12 +119,12 @@
         <option value="$PROJECT_DIR$/src/components/hero.js" />
         <option value="$PROJECT_DIR$/src/components/sidebar.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/services.js" />
-        <option value="$PROJECT_DIR$/src/components/about.js" />
         <option value="$PROJECT_DIR$/src/components/counter.js" />
         <option value="$PROJECT_DIR$/src/components/education.js" />
-        <option value="$PROJECT_DIR$/src/components/experience.js" />
         <option value="$PROJECT_DIR$/src/components/blog.js" />
+        <option value="$PROJECT_DIR$/src/components/about.js" />
+        <option value="$PROJECT_DIR$/src/components/experience.js" />
+        <option value="$PROJECT_DIR$/src/components/services.js" />
       </list>
     </option>
   </component>
@@ -220,15 +197,16 @@
       <updated>1559198441797</updated>
       <workItem from="1559198442995" duration="3459000" />
       <workItem from="1559210662628" duration="1711000" />
-      <workItem from="1559268234270" duration="7917000" />
+      <workItem from="1559268234270" duration="9539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13087000" />
+    <option name="totallyTimeSpent" value="14709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,31 +290,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="96" lean-forward="true" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -356,8 +313,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/experience.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="459">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="63" column="167" selection-start-line="63" selection-start-column="167" selection-end-line="63" selection-end-column="167" />
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ function About() {
                                     <h2 className="colorlib-heading">Who Am I?</h2>
                                     <p><strong>Hi I'm Trieu.</strong></p>
                                     <p>I am the one who have high passion in Computer Science.</p>
-                                    <p>I love to develope the wonderful softwares which can bring value to sociaty in order to make a profit to my team.</p>
+                                    <p>I love to develop the wonderful softwares which can bring value to sociaty in order to make a profit to my team.</p>
                                 </div>
                             </div>
                         </div>

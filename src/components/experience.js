@@ -20,8 +20,11 @@ function Experience() {
                                         <i className="icon-pen2" />
                                     </div>
                                     <div className="timeline-label">
-                                        <h2><a href="/">Backend Web Developer</a> <span>2018-now</span></h2>
-                                        <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                                        <h2>Backend Web Developer<a href="https://teko.vn/home/"> at Teko Vietnam Technology JSC</a> <span>2018-now</span></h2>
+                                        <ul>
+                                            <li>Financial Management Service.</li>
+                                            <li>Logistics Management Service.</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </article>
@@ -31,8 +34,10 @@ function Experience() {
                                         <i className="icon-pen2" />
                                     </div>
                                     <div className="timeline-label">
-                                        <h2>Web Developer at <a href="http://goldeneyetech.com.vn/">Golden Eyes Technologies</a> <span>2017-2018</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                        <h2>Web Developer at <a href="http://goldeneyetech.com.vn/">Goldeneye Technologies </a> <span> 2017-2018</span></h2>
+                                        <ul>
+                                            <li>Website support online tutoring by WebRTC technology.</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </article>
@@ -42,8 +47,12 @@ function Experience() {
                                         <i className="icon-pen2" />
                                     </div>
                                     <div className="timeline-label">
-                                        <h2>Web Developer <a href="https://ailab.hcmus.edu.vn/">at AILab</a> <span>2017-2019</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                        <h2>Member <a href="https://ailab.hcmus.edu.vn/">at AILab</a> <span>2017-2019</span></h2>
+                                        <ul>
+                                            <li>Vietnamese Speech Recognition service for Vietnam National Assembly Meeting.</li>
+                                            <li>Massive open online course (MOOC) provider based on EDX open source platform.</li>
+                                            <li>Write and publish the "Tự học lập trình Python căn bản" book.</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </article>

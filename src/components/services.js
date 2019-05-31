@@ -18,6 +18,7 @@ function Service() {
                             </span>
                             <div className="desc">
                                 <h3>Computer Vision</h3>
+                                <p>Tensorflow, OpenCV</p>
                             </div>
                         </div>
                     </div>
@@ -28,6 +29,7 @@ function Service() {
                             </span>
                             <div className="desc">
                                 <h3>Data Analysis</h3>
+                                <p>Scikit-learn, Selenium, Pandas</p>
                             </div>
                         </div>
                     </div>
@@ -38,6 +40,7 @@ function Service() {
                             </span>
                             <div className="desc">
                                 <h3>Application Development</h3>
+                                <p>Flask, Django, NodeJS, React, Angular, Android</p>
                             </div>
                         </div>
                     </div>
@@ -48,6 +51,7 @@ function Service() {
                             </span>
                             <div className="desc">
                                 <h3>CI/CD</h3>
+                                <p>Gitlab CI/CD</p>
                             </div>
                         </div>
                     </div>
@@ -58,6 +62,7 @@ function Service() {
                             </span>
                             <div className="desc">
                                 <h3>Writing Book</h3>
+                                <h3><a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRoboticsHCMUS%2Fposts%2F1341079622710113" target="_blank">"Tự học lập trình Python căn bản"</a></h3>
                             </div>
                         </div>
                     </div>
