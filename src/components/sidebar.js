@@ -7,7 +7,7 @@ function SideBar() {
                 <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
                 <h1 id="colorlib-logo"><a href="index.html">Nguyen Hai Trieu</a></h1>
                 <h4>Tony Nguyen</h4>
-                <span className="position"><a href="/">Data Scientist</a> &amp; Web Developer</span>
+                <span className="position"><a href="/">Data Scientist</a> &amp; Software Developer</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
                 <div id="navbar" className="collapse">

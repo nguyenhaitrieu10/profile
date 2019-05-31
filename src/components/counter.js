@@ -9,20 +9,20 @@ function Counter() {
                 </div>
                 <div className="row">
                     <div className="col-md-3 text-center animate-box">
-                        <span className="colorlib-counter js-counter" data-from={0} data-to={309} data-speed={5000} data-refresh-interval={50} />
-                        <span className="colorlib-counter-label">Cups of coffee</span>
+                        <span className="colorlib-counter js-counter" data-from={5} data-to={5} data-speed={5000} data-refresh-interval={50} />
+                        <span className="colorlib-counter-label">IT Posts</span>
                     </div>
                     <div className="col-md-3 text-center animate-box">
-                        <span className="colorlib-counter js-counter" data-from={0} data-to={356} data-speed={5000} data-refresh-interval={50} />
+                        <span className="colorlib-counter js-counter" data-from={6} data-to={6} data-speed={5000} data-refresh-interval={50} />
                         <span className="colorlib-counter-label">Projects</span>
                     </div>
                     <div className="col-md-3 text-center animate-box">
-                        <span className="colorlib-counter js-counter" data-from={0} data-to={30} data-speed={5000} data-refresh-interval={50} />
-                        <span className="colorlib-counter-label">Clients</span>
+                        <span className="colorlib-counter js-counter" data-from={1} data-to={1} data-speed={5000} data-refresh-interval={50} />
+                        <span className="colorlib-counter-label">Books</span>
                     </div>
                     <div className="col-md-3 text-center animate-box">
-                        <span className="colorlib-counter js-counter" data-from={0} data-to={10} data-speed={5000} data-refresh-interval={50} />
-                        <span className="colorlib-counter-label">Partners</span>
+                        <span className="colorlib-counter js-counter" data-from={22} data-to={22} data-speed={5000} data-refresh-interval={50} />
+                        <span className="colorlib-counter-label">Age</span>
                     </div>
                 </div>
             </div>
